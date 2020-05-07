@@ -1,0 +1,9 @@
+[submodule "pkg/ext/boost-cmake"]
+	path = pkg/ext/boost-cmake
+	url = https://github.com/Orphis/boost-cmake.git
+[submodule "pkg/ext/boost"]
+	path = pkg/ext/boost
+	url = https://github.com/Orphis/boost-cmake.git
+[submodule "pkg/ext/boost/boost-cmake"]
+	path = pkg/ext/boost/boost-cmake
+	url = https://github.com/Orphis/boost-cmake.git
